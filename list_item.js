@@ -21,7 +21,7 @@ const ListItem = ({product}) =>{
 
 const styles = StyleSheet.create({
     container: {
-        padding: 15,
+        padding: 16,
         display: 'flex',
         flexDirection: 'row'
     },
